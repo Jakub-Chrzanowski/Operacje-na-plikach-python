@@ -1,2 +1,3 @@
-# Operacje-na-plikach-python
-Zadania z dnia 28.11.2023r.
+> [!INFORMATION]
+> Operacje-na-plikach-python
+> Zadania z dnia 28.11.2023r.
